@@ -1,0 +1,66 @@
+<svg width="100%" height="100%" viewBox="0 0 600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Main Background Shadows/Glows -->
+    <circle cx="350" cy="250" r="150" fill="#FF00FF" fill-opacity="0.05" filter="blur(60px)"/>
+    
+    <!-- Left Tech Icon: Lock -->
+    <g opacity="0.4">
+        <rect x="80" y="150" width="100" height="140" rx="12" stroke="#444" stroke-width="2" fill="#1A1A1A"/>
+        <path d="M105 150V130C105 116.193 116.193 105 130 105C143.807 105 155 116.193 155 130V150" stroke="#444" stroke-width="3"/>
+        <circle cx="130" cy="210" r="8" fill="#444"/>
+    </g>
+
+    <!-- Right Tech Icons: Profile & Networking -->
+    <g opacity="0.3">
+        <rect x="420" y="100" width="120" height="160" rx="12" stroke="#444" stroke-width="2" fill="#1A1A1A"/>
+        <circle cx="480" cy="150" r="25" stroke="#444" stroke-width="2"/>
+        <path d="M455 200C455 185 465 175 480 175C495 175 505 185 505 200" stroke="#444" stroke-width="2"/>
+        
+        <circle cx="480" cy="300" r="40" stroke="#444" stroke-width="2"/>
+        <path d="M460 300A20 20 0 0 1 500 300" stroke="#FF00FF" stroke-width="3"/>
+    </g>
+
+    <!-- Center Phone Display -->
+    <rect x="230" y="120" width="160" height="320" rx="28" fill="#121212" stroke="#FF00FF" stroke-width="4"/>
+    <rect x="235" y="125" width="150" height="310" rx="24" fill="#FF00FF" fill-opacity="0.1"/>
+    
+    <!-- Phone Screen Elements -->
+    <circle cx="310" cy="190" r="35" fill="#FF00FF"/>
+    <path d="M285 240C285 215 295 205 310 205C325 205 335 215 335 240" fill="#FF00FF"/>
+    
+    <rect x="270" y="270" width="80" height="8" rx="4" fill="#FF00FF" fill-opacity="0.4"/>
+    <rect x="260" y="285" width="100" height="8" rx="4" fill="#FF00FF" fill-opacity="0.2"/>
+    
+    <rect x="280" y="340" width="60" height="60" rx="15" fill="#FF00FF"/>
+    <path d="M300 365V355C300 352.239 302.239 350 305 350C307.761 350 310 352.239 310 355V365" stroke="white" stroke-width="2" fill="none"/>
+    <rect x="295" y="365" width="20" height="15" rx="2" fill="white"/>
+
+    <!-- Floating Security Card -->
+    <g transform="rotate(-5, 200, 200)">
+        <rect x="180" y="180" width="130" height="200" rx="16" fill="#FDF2FF" fill-opacity="0.98"/>
+        <rect x="200" y="210" width="90" height="10" rx="5" fill="#FF00FF" fill-opacity="0.2"/>
+        <rect x="200" y="230" width="90" height="10" rx="5" fill="#FF00FF" fill-opacity="0.2"/>
+        <rect x="200" y="250" width="90" height="10" rx="5" fill="#FF00FF" fill-opacity="0.2"/>
+        <circle cx="210" cy="350" r="10" fill="#FF00FF"/>
+    </g>
+
+    <!-- Floating Person / Character -->
+    <g>
+        <!-- Pants -->
+        <path d="M165 300L185 300L195 400H185L175 350L165 400H155L165 300Z" fill="#222"/>
+        <!-- Shirt -->
+        <path d="M155 250H195L205 310H145L155 250Z" fill="#F0F"/>
+        <!-- Head -->
+        <circle cx="180" cy="235" r="12" fill="#333"/>
+        <!-- Arm reaching out -->
+        <path d="M195 260L230 250" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+    </g>
+
+    <!-- Network / Nodes -->
+    <g opacity="0.4">
+        <circle cx="450" cy="150" r="4" fill="#666"/>
+        <circle cx="500" cy="120" r="4" fill="#666"/>
+        <circle cx="500" cy="180" r="4" fill="#666"/>
+        <path d="M450 150L500 120" stroke="#666" stroke-width="1"/>
+        <path d="M450 150L500 180" stroke="#666" stroke-width="1"/>
+    </g>
+</svg>
