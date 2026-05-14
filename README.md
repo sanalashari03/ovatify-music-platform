@@ -1,7 +1,7 @@
 # 🎵 Ovatify - Your Ultimate Music Platform
 
 <p align="center">
-  <img src="public/screenshots/home.jpg" alt="Ovatify Home" width="800">
+  <img src="app/Public/screenshots/home.JPG" alt="Ovatify Home" width="800">
 </p>
 
 Ovatify is a modern music creation and management platform built with **Laravel**. It allows creators to manage their tracks, explore new content, and handle investments and marketplace activities with a premium, sleek dark-themed interface.
@@ -17,25 +17,25 @@ Ovatify is a modern music creation and management platform built with **Laravel*
 ## 📸 Screenshots
 
 ### Home Dashboard
-![Home](public/screenshots/home.jpg)
+![Home](app/Public/screenshots/home.JPG)
 
 ### My Tracks
-![My Tracks](public/screenshots/dashboard.jpg)
+![My Tracks](app/Public/screenshots/dashboard.JPG)
 
 ### Marketplace
-![Marketplace](public/screenshots/marketplace.jpg)
+![Marketplace](app/Public/screenshots/marketplace.JPG)
 
 ### Investment Details
-![Investment](public/screenshots/investment.jpg)
+![Investment](app/Public/screenshots/investment.JPG)
 
 ### Track Details
-![Track](public/screenshots/track.jpg)
+![Track](app/Public/screenshots/track.JPG)
 
 ### Verification Flow
-![Verification](public/screenshots/verification.jpg)
+![Verification](app/Public/screenshots/verification.JPG)
 
 ### Sign Up
-![Sign Up](public/screenshots/signup.jpg)
+![Sign Up](app/Public/screenshots/signup.JPG)
 
 ## 🚀 Installation
 
